@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Java, SpringBoot, Azure**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **jyotsana1999chandwani@gmail.com**
+
 <p align="left">
 </p>
 
