@@ -3,6 +3,9 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAF0E6&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Jyotsana+Chandwani;Backend+Developer+(Java+%2F+Spring+Boot);Microservices+%2F+REST+APIs+%2F+Redis+%2F+MySQL" alt="Typing SVG" />
+
+---
+  
 </p>
 
 
@@ -47,6 +50,50 @@
 - 🧰 Tools: Git, GitHub, Postman, Docker, Linux
 - 🗄️ Database: MySQL, Redis
 - 🧪 Testing: JUnit
+
+## 🚀 My Top Projects
+
+<div align="center">
+  
+<!-- Project 1 -->
+<a href="https://github.com/Chandwani-13/E-Commerce-Platform-Project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=E-Commerce-Platform-Project&theme=radical&border_color=F7941D" />
+</a>
+
+<!-- Project 2 -->
+<a href="https://github.com/Chandwani-13/Parking-Lot-System" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=Parking-Lot-System&theme=radical&border_color=F7941D" />
+</a>
+
+</div>
+
+<details>
+  <summary><b>🛠️ Detailed Project Highlights</b></summary>
+  
+### 🛒 E-Commerce Platform
+
+- 🧱 Java + Spring Boot + Redis + Kafka  
+- ⚙️ Modular microservices: Orders, Payments, Notification, Product  
+- 🚀 Redis caching improved performance by **10x**
+- 📬 Kafka-driven email system
+- 💳 Razorpay simulation + Elasticsearch filtering
+
+---
+
+### 🅿️ Parking Lot System
+
+- 💻 Built with Java + OOP + CLI
+- 🧠 Used Strategy & Singleton design patterns
+- 🎯 Built like real-world parking logic
+- 🚗 Multiple vehicle types + live commands
+
+</details>
+
+<img src="https://github.com/Chandwani-13/E-Commerce-Platform-Project/blob/main/assets/architecture-diagram.gif" />
+
+
+
+
 
   ## 📬 Let's Connect
 
