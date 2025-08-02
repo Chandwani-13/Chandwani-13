@@ -1,15 +1,21 @@
+
+
+<!-- My headline name and banner --> 
 <div align="center">
 
-<!-- Typing SVG Banner -->
 <p align="center">
+  <!-- Headline -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAF0E6&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Jyotsana+Chandwani;Backend+Developer" alt="Typing SVG" />
 
----
+  ---
+    <!-- Typing SVG Banner -->
   <img src ="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/header_.png"/>
 </p>
 </div>
 
 
+
+<!-- About me section with side image -->
 ## About me
 <p align="left">
   <img src="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="400" align="right" style="margin-left: 20px; border-radius: 12px;" />
@@ -40,19 +46,19 @@
 
 
 
-
-
-
 <!-- Short tagline -->
 <h3>🚀 Backend Developer | Spring Boot Enthusiast | Microservices Architect</h3>
 
 
 
+
+<!-- My tech stack with logos of skills and in written too -->
 ## 🛠️ Tech Stack
 
+<!-- Logos -->
 <p >
   <div align="center" padding="40">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />  
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />  
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/>  
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>  
 
@@ -65,11 +71,10 @@
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"/>  
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50"/>  
-
-  </div>
-  
-
+</div>
 </p>
+
+<!-- written part-->
 
 - 💻 Languages: Java, C++, SQL
 - 🚀 Frameworks: Spring Boot, Spring Cloud
@@ -79,23 +84,27 @@
 
 
 
-
+<!-- My project details with detail part seperate -->
 ## 🚀 My Top Projects
 
-<div align="">
-  
-<!-- Project 1 -->
-<a href="https://github.com/Chandwani-13/E-Commerce-Platform-Project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=E-Commerce-Platform-Project&theme=radical&border_color=F7941D" />
-</a>
+<!-- Project short part -->
+<table>
+  <tr>
+    <td style="padding-right: 10px;">
+      <a href="https://github.com/Chandwani-13/E-Commerce-Platform-Project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=E-Commerce-Platform-Project&theme=radical&border_color=F7941D" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Chandwani-13/parking-lot-system" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=parking-lot-system&theme=radical&border_color=F7941D" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Project 2 -->
-<a href="https://github.com/Chandwani-13/Parking-Lot-System" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=Parking-Lot-System&theme=radical&border_color=F7941D" />
-</a>
 
-</div>
-
+<!-- Project detail part -->
 <details>
   <summary><b>🛠️ Detailed Project Highlights</b></summary>
   
@@ -123,7 +132,7 @@
 
 
 
-
+<!-- Connection details -->
   ## 📬 Let's Connect
 
 <p align="left">
