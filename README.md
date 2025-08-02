@@ -7,15 +7,46 @@
 ---
   <img src ="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/header_.png"/>
 </p>
-<!-- GIF Animation -->
-<p align="center">
-  <img src="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="350"/>
+</div>
+
+
+## About me
+<p align="left">
+  <img src="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="400" align="right" style="margin-left: 20px; border-radius: 12px;" />
 </p>
+
+<samp>
+
+- 👩‍💻 <b>I’m a passionate and curious Software Developer</b>  
+  with a strong foundation in Java, Spring Boot, REST APIs, and DSA.  
+  I enjoy building scalable backend systems and solving real-world problems  
+  with clean, maintainable code.
+
+- 💡 <b>Tech Skills:</b>  
+  OOP, Design Patterns, MySQL, Docker, Git
+
+- ✈️ <b>Projects:</b>  
+  Flight Booking System, Parking Lot System, Travel Booking System  
+  built using solid object-oriented design principles
+
+- 👩‍🏫 <b>Also interested in:</b>  
+  Teaching, mentoring, and contributing to dev communities
+
+- 🪐 <b>Currently looking for:</b>  
+  Backend Development opportunities on impactful products  
+  with collaborative and experienced teams
+
+</samp>
+
+
+
+
+
 
 <!-- Short tagline -->
 <h3>🚀 Backend Developer | Spring Boot Enthusiast | Microservices Architect in Training</h3>
 
-</div>
+
 
 ## 🛠️ Tech Stack
 
@@ -45,6 +76,9 @@
 - 🧰 Tools: Git, GitHub, Postman, Docker, Linux
 - 🗄️ Database: MySQL, Redis
 - 🧪 Testing: JUnit
+
+
+
 
 ## 🚀 My Top Projects
 
