@@ -90,19 +90,18 @@
 <!-- Project short part -->
 <table>
   <tr>
-    <td style="padding-right: 10px;">
+    <td>
       <a href="https://github.com/Chandwani-13/E-Commerce-Platform-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=E-Commerce-Platform-Project&theme=radical&border_color=F7941D" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=E-Commerce-Platform-Project&theme=github_dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Chandwani-13/parking-lot-system" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=parking-lot-system&theme=radical&border_color=F7941D" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandwani-13&repo=parking-lot-system&theme=github_dark" />
       </a>
     </td>
   </tr>
 </table>
-
 
 <!-- Project detail part -->
 <details>
