@@ -44,7 +44,7 @@
 
 
 <!-- Short tagline -->
-<h3>🚀 Backend Developer | Spring Boot Enthusiast | Microservices Architect in Training</h3>
+<h3>🚀 Backend Developer | Spring Boot Enthusiast | Microservices Architect</h3>
 
 
 
@@ -126,15 +126,17 @@
 
   ## 📬 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:jyotsana1999chandwani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jyotsana-chandwani">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" width="100"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Chandwani-13">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" width="100"/>
   </a>
 </p>
 
