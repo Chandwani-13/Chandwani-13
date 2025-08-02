@@ -82,7 +82,7 @@
 
 ## 🚀 My Top Projects
 
-<div align="center">
+<div align="">
   
 <!-- Project 1 -->
 <a href="https://github.com/Chandwani-13/E-Commerce-Platform-Project" target="_blank">
