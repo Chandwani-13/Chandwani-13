@@ -2,10 +2,10 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAF0E6&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Jyotsana+Chandwani;Backend+Developer+(Java+%2F+Spring+Boot);Microservices+%2F+REST+APIs+%2F+Redis+%2F+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAF0E6&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Jyotsana+Chandwani;Backend+Developer" alt="Typing SVG" />
 
 ---
-  
+  <img src ="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/header_.png"/>
 </p>
 <!-- GIF Animation -->
 <p align="center">
