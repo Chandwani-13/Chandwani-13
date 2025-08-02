@@ -7,14 +7,9 @@
 ---
   
 </p>
-
-
-
-
-
 <!-- GIF Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://github.com/Chandwani-13/Chandwani-13/blob/main/Images/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif" width="350"/>
 </p>
 
 <!-- Short tagline -->
